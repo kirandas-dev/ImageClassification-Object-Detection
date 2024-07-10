@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the report and supplementary materials for Assignment 2 by Kiran Shanker Das (Student ID: 24580348). The assignment focuses on experimental settings and results for image classification and object detection tasks using deep learning techniques.
+The project focuses on experimental settings and results for image classification and object detection tasks using deep learning techniques.
 
 ## Contents
 
