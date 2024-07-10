@@ -1,4 +1,4 @@
-# Assignment 2: Deep Learning for Image Classification and Object Detection
+# Deep Learning for Image Classification and Object Detection
 
 ## Overview
 
@@ -6,7 +6,7 @@ The project focuses on experimental settings and results for image classificatio
 
 ## Contents
 
-1. **Report File**: [Assignment-2-Report-KiranShankerDas-24580348.pdf](path/to/report/file)
+1. **Report File**: [Assignment-2-Report-KiranShankerDas-24580348.pdf](https://github.com/kirandas-dev/ImageClassification-Object-Detection/blob/master/Assignment-2-Report-KiranShankerDas-24580348.pdf)
 2. **Scripts**: Contains scripts for data preprocessing, model training, and evaluation.
 3. **Data**: Sample datasets used for the experiments (if applicable).
 4. **Results**: Outputs from the experiments, including performance metrics and visualizations.
